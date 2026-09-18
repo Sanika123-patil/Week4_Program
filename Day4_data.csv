@@ -1,0 +1,9 @@
+Order_ID,Product,Region,Quantity,Sales
+501,Laptop,North,2,100000
+502,Mobile,South,,75000
+503,Tablet,East,3,45000
+503,Tablet,East,3,45000
+504,,West,4,20000
+505,Laptop,South,3,
+
+

@@ -1,0 +1,10 @@
+[
+{"Order_ID":301,"Product":"Laptop","Region":"North","Quantity":2,"Sales":95000},
+{"Order_ID":302,"Product":"Mobile","Region":"South","Quantity":3,"Sales":45000},
+{"Order_ID":303,"Product":"Tablet","Region":"Eat","Quantity":4,"Sales":60000},
+{"Order_ID":304,"Product":"Headphones","Region":"West","Quantity":5,"Sales":25000},
+{"Order_ID":305,"Product":"Laptop","Region":"East","Quantity":1,"Sales":20000}
+]
+
+
+
